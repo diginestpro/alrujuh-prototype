@@ -727,6 +727,11 @@ padding 58–90 px. Two large blurred green orbs behind it (480 px Green 500 @ 4
 
 **Responsive:** at ≤520 px the two buttons become full width, stacked.
 
+## 3.6 Section 12 — Footer
+
+Identical to **1.8** — the footer is built once on the master page and therefore appears
+automatically on all 7 pages. Nothing extra to build on the Home page.
+
 ---
 
 # Part 4 — Performance page (sections 1–5)
